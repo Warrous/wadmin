@@ -10,8 +10,11 @@ import UIKit
 
 class FirstViewController: UIViewController {
 
-    override func viewDidLoad() {
+    @IBOutlet weak var tvFirstView: UILabel!
+    override func viewDidLoad()
+    {
         super.viewDidLoad()
+        tvFirstView.text = Constants.NO_INTERNET_CONNECTION
         // Do any additional setup after loading the view, typically from a nib.
     }
 
