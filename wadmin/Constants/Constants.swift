@@ -85,6 +85,12 @@ public class Constants
     
     public static let URL_SAMPLE_CAR_SEDAN = "https://www.liahondaofenfield.com/assets/stock/expanded/white/640/2015che026c_640/2015che026c_640_01.jpg"
     
+    public static let URL_SAMPLE_CUSTOMER_IMAGE = "https://d2e70e9yced57e.cloudfront.net/wallethub/posts/29912/eric-klinenberg.jpg"
+    
+    public static let URL_FETCH_CUSTOMERS = SERVER_URL + "warrous.ms.consumer/warrous.ms.consumer.api/api/Consumer/CustomersList"
+    
+    public static let URL_DELIVERY_TRUCKS = SERVER_URL + "warrous.ms.obdm/warrous.ms.obdm.api/api/Vehicle/GetTransitTruckVehicleDetails"
+    
     
     
     

@@ -153,6 +153,21 @@
 		55F75AEA1FE93F6F00D20C0D /* VehicleCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55F75AE91FE93F6F00D20C0D /* VehicleCollectionViewCell.swift */; };
 		55F75AEC1FE93F8A00D20C0D /* VehiclesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55F75AEB1FE93F8A00D20C0D /* VehiclesViewController.swift */; };
 		55F75AEE1FE95B8800D20C0D /* Vehicle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55F75AED1FE95B8800D20C0D /* Vehicle.swift */; };
+		55FD8BFB1FEBB493007348FB /* Customer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55FD8BFA1FEBB493007348FB /* Customer.swift */; };
+		55FD8C041FEBBBD3007348FB /* company_name.png in Resources */ = {isa = PBXBuildFile; fileRef = 55FD8BFC1FEBBBC7007348FB /* company_name.png */; };
+		55FD8C051FEBBBD3007348FB /* ic_email.png in Resources */ = {isa = PBXBuildFile; fileRef = 55FD8BFD1FEBBBC8007348FB /* ic_email.png */; };
+		55FD8C061FEBBBD3007348FB /* ic_phone.png in Resources */ = {isa = PBXBuildFile; fileRef = 55FD8BFE1FEBBBCA007348FB /* ic_phone.png */; };
+		55FD8C071FEBBBD3007348FB /* top_arrow.png in Resources */ = {isa = PBXBuildFile; fileRef = 55FD8BFF1FEBBBCC007348FB /* top_arrow.png */; };
+		55FD8C081FEBBBD3007348FB /* 006-flag.png in Resources */ = {isa = PBXBuildFile; fileRef = 55FD8C001FEBBBCD007348FB /* 006-flag.png */; };
+		55FD8C091FEBBBD3007348FB /* bottom_arrow.png in Resources */ = {isa = PBXBuildFile; fileRef = 55FD8C011FEBBBCF007348FB /* bottom_arrow.png */; };
+		55FD8C0A1FEBBBD3007348FB /* ic_location.png in Resources */ = {isa = PBXBuildFile; fileRef = 55FD8C021FEBBBD0007348FB /* ic_location.png */; };
+		55FD8C0B1FEBBBD3007348FB /* city_name.png in Resources */ = {isa = PBXBuildFile; fileRef = 55FD8C031FEBBBD1007348FB /* city_name.png */; };
+		55FD8C0F1FEBBE8F007348FB /* DeliveryActivityListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55FD8C0E1FEBBE8F007348FB /* DeliveryActivityListViewController.swift */; };
+		55FD8C121FEBBF05007348FB /* DeliveryActivityCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55FD8C111FEBBF05007348FB /* DeliveryActivityCollectionViewCell.swift */; };
+		55FD8C141FEBCE7D007348FB /* DeliveryTruckVehicle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55FD8C131FEBCE7D007348FB /* DeliveryTruckVehicle.swift */; };
+		55FD8C161FEBCF32007348FB /* DeliveryTruck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55FD8C151FEBCF32007348FB /* DeliveryTruck.swift */; };
+		55FD8C1A1FEBE46F007348FB /* PdiVehiclesListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55FD8C191FEBE46F007348FB /* PdiVehiclesListViewController.swift */; };
+		55FD8C1C1FEBE48F007348FB /* PdiVehiclesCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55FD8C1B1FEBE48F007348FB /* PdiVehiclesCollectionViewCell.swift */; };
 		55FF98E31FE10D45000E8253 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55FF98E21FE10D45000E8253 /* LoginViewController.swift */; };
 		55FF98E61FE13568000E8253 /* StartViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55FF98E51FE13568000E8253 /* StartViewController.swift */; };
 		55FF98E91FE168F5000E8253 /* Apis.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55FF98E81FE168F5000E8253 /* Apis.swift */; };
@@ -330,6 +345,21 @@
 		55F75AE91FE93F6F00D20C0D /* VehicleCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VehicleCollectionViewCell.swift; sourceTree = "<group>"; };
 		55F75AEB1FE93F8A00D20C0D /* VehiclesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VehiclesViewController.swift; sourceTree = "<group>"; };
 		55F75AED1FE95B8800D20C0D /* Vehicle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vehicle.swift; sourceTree = "<group>"; };
+		55FD8BFA1FEBB493007348FB /* Customer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Customer.swift; sourceTree = "<group>"; };
+		55FD8BFC1FEBBBC7007348FB /* company_name.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = company_name.png; sourceTree = "<group>"; };
+		55FD8BFD1FEBBBC8007348FB /* ic_email.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_email.png; sourceTree = "<group>"; };
+		55FD8BFE1FEBBBCA007348FB /* ic_phone.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_phone.png; sourceTree = "<group>"; };
+		55FD8BFF1FEBBBCC007348FB /* top_arrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = top_arrow.png; sourceTree = "<group>"; };
+		55FD8C001FEBBBCD007348FB /* 006-flag.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "006-flag.png"; sourceTree = "<group>"; };
+		55FD8C011FEBBBCF007348FB /* bottom_arrow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bottom_arrow.png; sourceTree = "<group>"; };
+		55FD8C021FEBBBD0007348FB /* ic_location.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_location.png; sourceTree = "<group>"; };
+		55FD8C031FEBBBD1007348FB /* city_name.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = city_name.png; sourceTree = "<group>"; };
+		55FD8C0E1FEBBE8F007348FB /* DeliveryActivityListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeliveryActivityListViewController.swift; sourceTree = "<group>"; };
+		55FD8C111FEBBF05007348FB /* DeliveryActivityCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeliveryActivityCollectionViewCell.swift; sourceTree = "<group>"; };
+		55FD8C131FEBCE7D007348FB /* DeliveryTruckVehicle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeliveryTruckVehicle.swift; sourceTree = "<group>"; };
+		55FD8C151FEBCF32007348FB /* DeliveryTruck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeliveryTruck.swift; sourceTree = "<group>"; };
+		55FD8C191FEBE46F007348FB /* PdiVehiclesListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PdiVehiclesListViewController.swift; sourceTree = "<group>"; };
+		55FD8C1B1FEBE48F007348FB /* PdiVehiclesCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PdiVehiclesCollectionViewCell.swift; sourceTree = "<group>"; };
 		55FF98E21FE10D45000E8253 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		55FF98E51FE13568000E8253 /* StartViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartViewController.swift; sourceTree = "<group>"; };
 		55FF98E81FE168F5000E8253 /* Apis.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Apis.swift; sourceTree = "<group>"; };
@@ -492,6 +522,7 @@
 		556308EE1FE4245900DE761C /* PDI */ = {
 			isa = PBXGroup;
 			children = (
+				55FD8C171FEBE446007348FB /* List */,
 				550C4D241FEA9DE900D57BCF /* PDIVehiclesGroupViewController.swift */,
 			);
 			path = PDI;
@@ -605,6 +636,9 @@
 				55F75AE51FE9319700D20C0D /* OemPrograms.swift */,
 				55F75AED1FE95B8800D20C0D /* Vehicle.swift */,
 				550C4D181FEA661600D57BCF /* TestDrive.swift */,
+				55FD8BFA1FEBB493007348FB /* Customer.swift */,
+				55FD8C131FEBCE7D007348FB /* DeliveryTruckVehicle.swift */,
+				55FD8C151FEBCF32007348FB /* DeliveryTruck.swift */,
 			);
 			path = ModelObjects;
 			sourceTree = "<group>";
@@ -615,6 +649,7 @@
 				0B015A7C1FEACC740087E956 /* MenuViewController.swift */,
 				0B015A7A1FEACC5D0087E956 /* BaseViewController.swift */,
 				550C4D1D1FEA9D0300D57BCF /* CustomerLookUp */,
+				55FD8C0C1FEBBE35007348FB /* Delivery Activity */,
 				55F75ADA1FE9272B00D20C0D /* Programs & Incentives */,
 				55F75ACF1FE91DA500D20C0D /* Reports */,
 				556EF1F81FE8082500DEA2A7 /* Alerts */,
@@ -669,6 +704,14 @@
 			isa = PBXGroup;
 			children = (
 				0B4842BC1FEB609900AFB4BA /* notifications-button.png */,
+				55FD8C001FEBBBCD007348FB /* 006-flag.png */,
+				55FD8C011FEBBBCF007348FB /* bottom_arrow.png */,
+				55FD8C031FEBBBD1007348FB /* city_name.png */,
+				55FD8BFC1FEBBBC7007348FB /* company_name.png */,
+				55FD8BFD1FEBBBC8007348FB /* ic_email.png */,
+				55FD8C021FEBBBD0007348FB /* ic_location.png */,
+				55FD8BFE1FEBBBCA007348FB /* ic_phone.png */,
+				55FD8BFF1FEBBBCC007348FB /* top_arrow.png */,
 				0B4842B01FEB4D1600AFB4BA /* 001-accounts.png */,
 				0B4842AC1FEB4D1200AFB4BA /* 002-help.png */,
 				0B4842AF1FEB4D1500AFB4BA /* 003-settings.png */,
@@ -895,6 +938,48 @@
 			path = Cell;
 			sourceTree = "<group>";
 		};
+		55FD8C0C1FEBBE35007348FB /* Delivery Activity */ = {
+			isa = PBXGroup;
+			children = (
+				55FD8C0D1FEBBE55007348FB /* List */,
+			);
+			path = "Delivery Activity";
+			sourceTree = "<group>";
+		};
+		55FD8C0D1FEBBE55007348FB /* List */ = {
+			isa = PBXGroup;
+			children = (
+				55FD8C101FEBBE95007348FB /* Cell */,
+				55FD8C0E1FEBBE8F007348FB /* DeliveryActivityListViewController.swift */,
+			);
+			path = List;
+			sourceTree = "<group>";
+		};
+		55FD8C101FEBBE95007348FB /* Cell */ = {
+			isa = PBXGroup;
+			children = (
+				55FD8C111FEBBF05007348FB /* DeliveryActivityCollectionViewCell.swift */,
+			);
+			path = Cell;
+			sourceTree = "<group>";
+		};
+		55FD8C171FEBE446007348FB /* List */ = {
+			isa = PBXGroup;
+			children = (
+				55FD8C181FEBE44D007348FB /* Cell */,
+				55FD8C191FEBE46F007348FB /* PdiVehiclesListViewController.swift */,
+			);
+			path = List;
+			sourceTree = "<group>";
+		};
+		55FD8C181FEBE44D007348FB /* Cell */ = {
+			isa = PBXGroup;
+			children = (
+				55FD8C1B1FEBE48F007348FB /* PdiVehiclesCollectionViewCell.swift */,
+			);
+			path = Cell;
+			sourceTree = "<group>";
+		};
 		55FF98E11FE10CEE000E8253 /* Login */ = {
 			isa = PBXGroup;
 			children = (
@@ -1049,6 +1134,7 @@
 				55E049D91FE2AF6500D1AAD3 /* email.png in Resources */,
 				55E049F11FE2AF6600D1AAD3 /* new_location.png in Resources */,
 				55E04A1D1FE2AF6600D1AAD3 /* ic_geofence1.png in Resources */,
+				55FD8C081FEBBBD3007348FB /* 006-flag.png in Resources */,
 				55E04A291FE2AF6600D1AAD3 /* screen2.png in Resources */,
 				55E04A041FE2AF6600D1AAD3 /* vehicle_diagnostics.png in Resources */,
 				55E04A1A1FE2AF6600D1AAD3 /* screen5.png in Resources */,
@@ -1063,6 +1149,7 @@
 				55E049E61FE2AF6500D1AAD3 /* badge.png in Resources */,
 				55E04A001FE2AF6600D1AAD3 /* vehicle_histroy.png in Resources */,
 				0B4842B51FEB4D1700AFB4BA /* 001-accounts.png in Resources */,
+				55FD8C0A1FEBBBD3007348FB /* ic_location.png in Resources */,
 				55E04A0A1FE2AF6600D1AAD3 /* red_circle1.png in Resources */,
 				55E04A091FE2AF6600D1AAD3 /* img_caronmap_small.png in Resources */,
 				55E049F91FE2AF6600D1AAD3 /* back_remote.png in Resources */,
@@ -1082,6 +1169,7 @@
 				55E049FD1FE2AF6600D1AAD3 /* vehicle_pdi.png in Resources */,
 				55E049DC1FE2AF6500D1AAD3 /* truck_vehicle.png in Resources */,
 				55E04A241FE2AF6600D1AAD3 /* wrong.png in Resources */,
+				55FD8C071FEBBBD3007348FB /* top_arrow.png in Resources */,
 				55E04A1B1FE2AF6600D1AAD3 /* horn.png in Resources */,
 				55E04A111FE2AF6600D1AAD3 /* odo_meter.png in Resources */,
 				55E04A231FE2AF6600D1AAD3 /* screen3.png in Resources */,
@@ -1090,6 +1178,7 @@
 				55F619BB1FDFAB63005945CD /* Assets.xcassets in Resources */,
 				55E04A181FE2AF6600D1AAD3 /* micus.png in Resources */,
 				0B4842B31FEB4D1700AFB4BA /* 005-home.png in Resources */,
+				55FD8C061FEBBBD3007348FB /* ic_phone.png in Resources */,
 				55F75AE21FE92E7D00D20C0D /* screen.png in Resources */,
 				55E049DD1FE2AF6500D1AAD3 /* schedule.png in Resources */,
 				55E04A0E1FE2AF6600D1AAD3 /* truck_main.png in Resources */,
@@ -1103,6 +1192,7 @@
 				55E049E81FE2AF6500D1AAD3 /* send.png in Resources */,
 				55E04A021FE2AF6600D1AAD3 /* route_map.png in Resources */,
 				556308E71FE3F3E900DE761C /* search_png.png in Resources */,
+				55FD8C051FEBBBD3007348FB /* ic_email.png in Resources */,
 				55E049F71FE2AF6600D1AAD3 /* badge_star.png in Resources */,
 				55E04A0D1FE2AF6600D1AAD3 /* in.png in Resources */,
 				55E04A2C1FE2AF6600D1AAD3 /* reports.png in Resources */,
@@ -1119,10 +1209,13 @@
 				0B4842B21FEB4D1700AFB4BA /* 004-message.png in Resources */,
 				55E049FB1FE2AF6600D1AAD3 /* pointer.png in Resources */,
 				0B4842BD1FEB609A00AFB4BA /* notifications-button.png in Resources */,
+				55FD8C091FEBBBD3007348FB /* bottom_arrow.png in Resources */,
 				55E04A1E1FE2AF6600D1AAD3 /* live.png in Resources */,
 				55E049E41FE2AF6500D1AAD3 /* vehicle_details.png in Resources */,
 				55E04A061FE2AF6600D1AAD3 /* password.png in Resources */,
+				55FD8C041FEBBBD3007348FB /* company_name.png in Resources */,
 				55E049ED1FE2AF6500D1AAD3 /* delivery_activity.png in Resources */,
+				55FD8C0B1FEBBBD3007348FB /* city_name.png in Resources */,
 				55E04A201FE2AF6600D1AAD3 /* customer_lookup.png in Resources */,
 				55E04A0B1FE2AF6600D1AAD3 /* orange_location.png in Resources */,
 				55E04A1F1FE2AF6600D1AAD3 /* pdi_fns.png in Resources */,
@@ -1344,9 +1437,12 @@
 				550C4D171FEA63BF00D57BCF /* TestDriveCollectionViewCell.swift in Sources */,
 				55E04A301FE2B6D800D1AAD3 /* UserRole.swift in Sources */,
 				550C4D191FEA661600D57BCF /* TestDrive.swift in Sources */,
+				55FD8C1C1FEBE48F007348FB /* PdiVehiclesCollectionViewCell.swift in Sources */,
+				55FD8BFB1FEBB493007348FB /* Customer.swift in Sources */,
 				55F75ACE1FE9093200D20C0D /* AlertRule.swift in Sources */,
 				55FF98E31FE10D45000E8253 /* LoginViewController.swift in Sources */,
 				55C4EB311FE2DAFC007B46A0 /* userRollCollectionViewCell.swift in Sources */,
+				55FD8C1A1FEBE46F007348FB /* PdiVehiclesListViewController.swift in Sources */,
 				550C4D1C1FEA715500D57BCF /* AlertsGroupViewController.swift in Sources */,
 				0B015A7B1FEACC5D0087E956 /* BaseViewController.swift in Sources */,
 				5588EE621FDFD980002A1E29 /* FetchVehiclesViewController.swift in Sources */,
@@ -1363,8 +1459,10 @@
 				550C4D251FEA9DE900D57BCF /* PDIVehiclesGroupViewController.swift in Sources */,
 				556308F31FE4249500DE761C /* ProfileViewController.swift in Sources */,
 				5588EE5C1FDFBFF6002A1E29 /* SharedObjects.swift in Sources */,
+				55FD8C141FEBCE7D007348FB /* DeliveryTruckVehicle.swift in Sources */,
 				55FF98E61FE13568000E8253 /* StartViewController.swift in Sources */,
 				556308E51FE3CB4800DE761C /* GeofenceViewController.swift in Sources */,
+				55FD8C0F1FEBBE8F007348FB /* DeliveryActivityListViewController.swift in Sources */,
 				55F75AEA1FE93F6F00D20C0D /* VehicleCollectionViewCell.swift in Sources */,
 				0B4842BB1FEB570600AFB4BA /* helpViewController.swift in Sources */,
 				55F619B61FDFAB63005945CD /* SecondViewController.swift in Sources */,
@@ -1380,8 +1478,10 @@
 				556EF1F41FE7F27600DEA2A7 /* Geofence.swift in Sources */,
 				55F75AD91FE9230E00D20C0D /* Reports.swift in Sources */,
 				0B4842B71FEB56D900AFB4BA /* TabViewController.swift in Sources */,
+				55FD8C121FEBBF05007348FB /* DeliveryActivityCollectionViewCell.swift in Sources */,
 				556EF1EF1FE7C57B00DEA2A7 /* IntrolViewController.swift in Sources */,
 				55F75AEE1FE95B8800D20C0D /* Vehicle.swift in Sources */,
+				55FD8C161FEBCF32007348FB /* DeliveryTruck.swift in Sources */,
 				551B78231FE276B700E17704 /* HomeViewController.swift in Sources */,
 				556EF2011FE808FB00DEA2A7 /* AlertsCollectionViewCell.swift in Sources */,
 			);
