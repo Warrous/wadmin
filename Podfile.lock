@@ -1,0 +1,95 @@
+PODS:
+  - Alamofire (4.6.0)
+  - ESPullToRefresh (2.7)
+  - GoogleMaps (2.5.0):
+    - GoogleMaps/Maps (= 2.5.0)
+  - GoogleMaps/Base (2.5.0)
+  - GoogleMaps/Maps (2.5.0):
+    - GoogleMaps/Base
+  - GooglePlaces (2.5.0):
+    - GoogleMaps/Base (= 2.5.0)
+  - JWTDecode (2.1.1)
+  - MaterialComponents/AnimationTiming (43.0.0)
+  - MaterialComponents/Buttons (43.0.0):
+    - MaterialComponents/Buttons/ColorThemer (= 43.0.0)
+    - MaterialComponents/Buttons/Component (= 43.0.0)
+    - MaterialComponents/Buttons/TitleColorAccessibilityMutator (= 43.0.0)
+    - MaterialComponents/private/Math
+  - MaterialComponents/Buttons/ColorThemer (43.0.0):
+    - MaterialComponents/Buttons/Component
+    - MaterialComponents/private/Math
+    - MaterialComponents/Themes
+  - MaterialComponents/Buttons/Component (43.0.0):
+    - MaterialComponents/Ink
+    - MaterialComponents/private/Math
+    - MaterialComponents/ShadowElevations
+    - MaterialComponents/ShadowLayer
+    - MaterialComponents/Typography
+    - MDFInternationalization
+    - MDFTextAccessibility
+  - MaterialComponents/Buttons/TitleColorAccessibilityMutator (43.0.0):
+    - MaterialComponents/Buttons/Component
+    - MaterialComponents/private/Math
+    - MDFTextAccessibility
+  - MaterialComponents/Ink (43.0.0):
+    - MaterialComponents/Ink/ColorThemer (= 43.0.0)
+    - MaterialComponents/Ink/Component (= 43.0.0)
+  - MaterialComponents/Ink/ColorThemer (43.0.0):
+    - MaterialComponents/Ink/Component
+    - MaterialComponents/Themes
+  - MaterialComponents/Ink/Component (43.0.0):
+    - MaterialComponents/private/Math
+  - MaterialComponents/OverlayWindow (43.0.0):
+    - MaterialComponents/private/Application
+  - MaterialComponents/private/Application (43.0.0)
+  - MaterialComponents/private/KeyboardWatcher (43.0.0):
+    - MaterialComponents/private/Application
+  - MaterialComponents/private/Math (43.0.0)
+  - MaterialComponents/private/Overlay (43.0.0)
+  - MaterialComponents/ShadowElevations (43.0.0)
+  - MaterialComponents/ShadowLayer (43.0.0):
+    - MaterialComponents/ShadowElevations
+  - MaterialComponents/Snackbar (43.0.0):
+    - MaterialComponents/AnimationTiming
+    - MaterialComponents/Buttons
+    - MaterialComponents/OverlayWindow
+    - MaterialComponents/private/Application
+    - MaterialComponents/private/KeyboardWatcher
+    - MaterialComponents/private/Overlay
+    - MaterialComponents/Typography
+  - MaterialComponents/Themes (43.0.0)
+  - MaterialComponents/Typography (43.0.0):
+    - MaterialComponents/private/Application
+  - MDFInternationalization (1.0.4)
+  - MDFTextAccessibility (1.2.0)
+  - Nuke (5.2)
+  - PageMenu (2.0.0)
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - ESPullToRefresh
+  - GoogleMaps
+  - GooglePlaces
+  - JWTDecode
+  - MaterialComponents/Snackbar
+  - Nuke
+  - PageMenu
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  ESPullToRefresh: 119e2710b82b75536aab2bbe4883ba119fca35c8
+  GoogleMaps: c087b8e5dfe87ca6ebf59adb9b4894a4146bec4f
+  GooglePlaces: dd70d9d71ea1c7944846afe67de3712c99b30a77
+  JWTDecode: 83e8b381aafe27158d9f692cbdca2b12d61d460c
+  MaterialComponents: dc77450aafa8639522bb15aa9440a1a3b6946cd3
+  MDFInternationalization: e355b0cebecf53d60233bd267084e49366c82513
+  MDFTextAccessibility: 94098925e0853551c5a311ce7c1ecefbe297cdb6
+  Nuke: 5f420c4637415f979c83afb35e73176dd03232d9
+  PageMenu: 9c38fd7e0d9ef4b1408320f55bb907bbc0e538dc
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: fad2c106af45545baf53b113e5a6ad4bdab8ed14
+
+COCOAPODS: 1.3.1
